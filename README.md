@@ -22,6 +22,6 @@ Here are some projects I'm proud of:
 ## Connect with Me
 
 - LinkedIn: @jasonharris70634
-- Twitter: @codingwithjason
+- Twitter: @devwithj
 
 Feel free to explore my repositories and reach out to collaborate on exciting projects!
